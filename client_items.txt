@@ -1,0 +1,7 @@
+645
+bulka 2
+krzeslo 1
+ziemniaki 1
+maslo 2
+kiszka 1
+chleb 1

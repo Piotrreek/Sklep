@@ -1,0 +1,6 @@
+bulka 2 18
+ziemniaki 1 3
+maslo 5 6
+kiszka 25 4
+chleb 2 5
+krzeslo 100 2
